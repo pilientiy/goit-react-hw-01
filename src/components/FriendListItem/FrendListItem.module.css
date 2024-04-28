@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+.name {
+  font-size: 20px;
+  font-weight: 500;
+}
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
